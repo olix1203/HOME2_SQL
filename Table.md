@@ -1,1 +1,0 @@
-!(C:\Users\Никита Омельченко\Desktop\SQL\HOME2_SQL\Создание БД.png)
